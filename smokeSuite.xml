@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Smoke Suite">
+    <parameter name="Screenshot" value="Yes"></parameter>
+    <parameter name="Platform" value="local-windows"></parameter>
+    <parameter name="datafilename" value="testData.xlsx"></parameter>
+    <parameter name="browser" value="chrome"></parameter>
+    <test name="ProductHomePage Test">
+        <classes>
+            <class name="com.clairvoyant.tests.ProductHomePageTest">
+                <methods>
+                    <include name="validateHomePageLoad"></include>
+                </methods>
+
+            </class>
+        </classes>
+
+    </test>
+
+</suite>

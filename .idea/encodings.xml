@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Data/lopescgc-prod.pem" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Driver/IEDriverServer.exe" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Driver/IEDriverServer32.exe" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Driver/chromedriver.exe" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Driver/chromedriver_new.exe" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Driver/phantomjs" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/clairvoyant/tests/DataBaseConnection.java" charset="windows-1252" />
+    <file url="PROJECT" charset="windows-1252" />
+  </component>
+</project>

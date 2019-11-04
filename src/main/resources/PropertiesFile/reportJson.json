@@ -1,0 +1,991 @@
+{
+  "info": {
+    "studentName": "Administrator Administrator",
+    "userId": "3",
+    "assignmentName": "Assignment 1",
+    "className": "null",
+    "groupSubmission": false,
+    "contentWordCount": 949,
+    "contentTruncated": false,
+    "quotedTextPercent": 6,
+    "citationsCount": 1,
+    "language": null,
+    "sessionActivationTime": 1571288555602,
+    "sessionExpiryTime": 1571289755602,
+    "sessionDuration": 1200000
+  },
+  "originalText": "\nNovember 13, 2016 \nENG 105\n\tChild trafficking has always been an issue all around the world. It is not much talked about it as many other issues that are happening right now. Child trafficking is child abuse. Children are kidnapped or they run away. There are times when children are tricked, forced or persuaded to leave their homes. There may be threats to the family, the use of violence has decreased (Europol, 2011). They are forced to work or are sold. Children are trafficked for sexual exploitation, forced marriages and engage them to do criminal activity such as pickpocketing, begging, transporting drugs. Child sex trafficking is a serious problem in the United States (Jodie Gummow 2013). \n\n\tWho traffics children you may ask. Child trafficking is a hidden crime (Europol, 2011), but how could it really be considered a hidden crime? When the world knows about this crime and nothing is being done to stop it? People who traffic children are individuals or small groups, who are people who kidnap children from areas they know and where they live. Medium sized groups are groups who move and exploit on a small scale. Large criminal networks are groups that operate internationally, they deal with high levels of corruption, money laundering and have large number of victims (McRedmond, 2010). Larger groups like to stay hidden and have other people work for them thus making it difficult to be found. There are times where these larger groups are found \n\n\tThe average age for child trafficking is twelve to fourteen years of age. \nChildren at this age are girls who have ran away from home because they were sexually abused in there life. Six hundred thousand to eight hundred thousand people are trafficked across the world every year. 80% are female and half are children (U.S State Department 2005). Just in King County Washington police have estimated up to 500 teens as young as twevele to be working everyday as slaves (Thomas 2012). Three hundred thousand of americans under the age of 18 are in child trafficking every year. Children do not choose to do this, many get forced. No child should ever go through this traumatic experience. Many children go missing and families do not know what has happened to them. Years later these children are found, which have been abused and tortured and put to work of which many may not have wanted to do so. One story that opened my eyes to this issue was titled Human trafficking survivor: I was raped 43,200 times.   A story about a girl who was abused at the age of five by a relative. She was then lured by a trafficker who used kind words and a fast car (Karla 2015). \"I started at 10 a.m. and finished at midnight. We were in Guadalajara for a week. Do the math. Twenty per day for a week. Some men would laugh at me because I was crying. I had to close my eyes so that that I would not see what they were doing to me, so that I would not feel anything,\" (Karla 2015). It is very sad to hear these types of stories and what these girls go to at such a young age. \n\n\tAs you want to believe it or not this issue lives all over the world. Not just across seas but here where you live. It is   a disgusting matter, that people do this for a living and they have no remorse towards it. There are over forty thousand children in sex trafficking in Sri Lanka and 6.4% end up pregnant (United National Party MP Rosy Senanayake). Child sex trafficking in Thailand is influenced by tourism, over thirty thousand children are sold as sex slaves. Children in Brazil sell there bodies to escape poverty, children as young at twelve sell their bodies as little as 80p which is equivalent to $24 in the US. Not much can be done with just $24 U.S dollars but in other countries such as a brazil. A lot can be bought with that little money. In the United States sixteen children as young as thirteen were rescued from a sex trade in New Jersey for the Super Bowl weekend (CCRC 2014). This type of crime happens all over the world. Not just in one area. Child sex trafficking is the second largest criminal industry reaching thirty two billion annually. \n\n\t\n\tChild trafficking is a serious matter and there has to be a stop to it. There can be a stop to it, if people were to come as one it would help end this issue. Past victims do not wish to speak about their traumatic experience which makes it difficult to end this issue. Also there is well over eight hundred thousands child trafficking happening all around the world, making it a lot harder to end this issue. This has been an on going issue since later 1800s and it has not stopped since then and it will more than likely not be stopped anytime soon. Child trafficking will always be an issue and not much can be stopped to end this vicious issue. \n\n\n\nAnderson, B., and J.O. Davidson (2003) .Is trafficking in human beings demand driven? A multi-country pilot study. IOM Migration Research Series No. 15, IOM, Geneva.\n\nChild Trafficking. Retrieved November 13, 2016, from https://www.unicefusa.org/mission/protect/trafficking\n\nHughes, M. 2005. The demand for victims of sex trafficking. Available at http://www.uri.edu/artsci/wms/hughes/demand_for_victim s.pdf. Accessed 14/07/2007.\n\nJones, B. (2014, March 3). Trafficking of Children. Retrieved November 13, 2016\n\nNair. M. 2002. Combating trafficking in women and children. CBI Bulletin (April), vol.vi no.3.\n\nRomo, R. (2010, November 15). Human trafficking survivor: I was raped 43,200 times. Retrieved November 13, 2016,\n\n",
+  "grammar": [
+    {
+      "grammarIssueId": 1,
+      "message": "Some style guides suggest that commas should set off the year in a month-day-year date: \"2016,\".",
+      "shortMessage": "Potentially missing comma",
+      "offset": 14,
+      "length": 4,
+      "context": {
+        "text": " November 13, 2016  ENG 105 \tChild trafficking has always ...",
+        "offset": 14,
+        "length": 4
+      },
+      "rule": {
+        "id": "MISSING_COMMA_AFTER_YEAR",
+        "subId": "1",
+        "description": "Potentially missing comma after year",
+        "issueType": "style",
+        "category": {
+          "id": "AMERICAN_ENGLISH_STYLE",
+          "name": "American English Style",
+          "groupName": "Style"
+        },
+        "urls": [
+          {
+            "value": "http://www.thepunctuationguide.com/comma.html#dates"
+          }
+        ]
+      },
+      "replacements": [
+        {
+          "value": "2016,"
+        }
+      ],
+      "duplicateOfIssueId": null,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 2,
+      "message": "Possible spelling mistake found",
+      "shortMessage": "Spelling mistake",
+      "offset": 407,
+      "length": 7,
+      "context": {
+        "text": "...ily, the use of violence has decreased (Europol, 2011). They are forced to work or are ...",
+        "offset": 43,
+        "length": 7
+      },
+      "rule": {
+        "id": "MORFOLOGIK_RULE_EN_US",
+        "subId": null,
+        "description": "Possible spelling mistake",
+        "issueType": "misspelling",
+        "category": {
+          "id": "TYPOS",
+          "name": "Possible Typo",
+          "groupName": "Spelling"
+        },
+        "urls": null
+      },
+      "replacements": [
+        {
+          "value": "Europe"
+        },
+        {
+          "value": "Europa"
+        }
+      ],
+      "duplicateOfIssueId": 0,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 3,
+      "message": "Possible spelling mistake found",
+      "shortMessage": "Spelling mistake",
+      "offset": 574,
+      "length": 13,
+      "context": {
+        "text": "...ge them to do criminal activity such as pickpocketing, begging, transporting drugs. Child sex...",
+        "offset": 43,
+        "length": 13
+      },
+      "rule": {
+        "id": "MORFOLOGIK_RULE_EN_US",
+        "subId": null,
+        "description": "Possible spelling mistake",
+        "issueType": "misspelling",
+        "category": {
+          "id": "TYPOS",
+          "name": "Possible Typo",
+          "groupName": "Spelling"
+        },
+        "urls": null
+      },
+      "replacements": [
+        {
+          "value": "pick pocketing"
+        }
+      ],
+      "duplicateOfIssueId": 0,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 4,
+      "message": "Possible spelling mistake found",
+      "shortMessage": "Spelling mistake",
+      "offset": 689,
+      "length": 6,
+      "context": {
+        "text": "...ous problem in the United States (Jodie Gummow 2013).   \tWho traffics children you may...",
+        "offset": 43,
+        "length": 6
+      },
+      "rule": {
+        "id": "MORFOLOGIK_RULE_EN_US",
+        "subId": null,
+        "description": "Possible spelling mistake",
+        "issueType": "misspelling",
+        "category": {
+          "id": "TYPOS",
+          "name": "Possible Typo",
+          "groupName": "Spelling"
+        },
+        "urls": null
+      },
+      "replacements": [
+        {
+          "value": "Summon"
+        },
+        {
+          "value": "Gumbo"
+        },
+        {
+          "value": "Gummy"
+        },
+        {
+          "value": "Gamow"
+        },
+        {
+          "value": "Gummed"
+        },
+        {
+          "value": "Gammon"
+        }
+      ],
+      "duplicateOfIssueId": 0,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 5,
+      "message": "\"Who\" at the beginning of a sentence requires a 2nd clause. Maybe a comma, question or exclamation mark is missing, or the sentence is incomplete and should be joined with the following sentence. ",
+      "shortMessage": "Punctuation error, sentence looks like a fragment",
+      "offset": 706,
+      "length": 3,
+      "context": {
+        "text": "...e United States (Jodie Gummow 2013).   \tWho traffics children you may ask. Child tr...",
+        "offset": 43,
+        "length": 3
+      },
+      "rule": {
+        "id": "SENTENCE_FRAGMENT",
+        "subId": "1",
+        "description": "Sentence is a fragment",
+        "issueType": "grammar",
+        "category": {
+          "id": "GRAMMAR",
+          "name": "Grammar",
+          "groupName": "Grammar"
+        },
+        "urls": [
+          {
+            "value": "http://www.chompchomp.com/rules/fragrules.htm"
+          }
+        ]
+      },
+      "replacements": [],
+      "duplicateOfIssueId": null,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 6,
+      "message": "Possible spelling mistake found",
+      "shortMessage": "Spelling mistake",
+      "offset": 778,
+      "length": 7,
+      "context": {
+        "text": "...k. Child trafficking is a hidden crime (Europol, 2011), but how could it really be cons...",
+        "offset": 43,
+        "length": 7
+      },
+      "rule": {
+        "id": "MORFOLOGIK_RULE_EN_US",
+        "subId": null,
+        "description": "Possible spelling mistake",
+        "issueType": "misspelling",
+        "category": {
+          "id": "TYPOS",
+          "name": "Possible Typo",
+          "groupName": "Spelling"
+        },
+        "urls": null
+      },
+      "replacements": [
+        {
+          "value": "Europe"
+        },
+        {
+          "value": "Europa"
+        }
+      ],
+      "duplicateOfIssueId": 2,
+      "issueADuplicate": true
+    },
+    {
+      "grammarIssueId": 7,
+      "message": "Change from passive to active voice? Example: \"A cake is being baked by him.\" can be changed to \"He is baking a cake.\"",
+      "shortMessage": "Passive voice",
+      "offset": 890,
+      "length": 21,
+      "context": {
+        "text": "...en the world knows about this crime and nothing is being done to stop it? People who traffic children...",
+        "offset": 43,
+        "length": 21
+      },
+      "rule": {
+        "id": "PASSIVE_VOICE",
+        "subId": "6",
+        "description": "Passive voice",
+        "issueType": "uncategorized",
+        "category": {
+          "id": "MISC",
+          "name": "Miscellaneous",
+          "groupName": "Grammar"
+        },
+        "urls": null
+      },
+      "replacements": [],
+      "duplicateOfIssueId": null,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 8,
+      "message": "It is better to use 'times' with the time-relative pronoun 'when': \"times when\". (Alternatively, use 'in/on which')",
+      "shortMessage": "",
+      "offset": 1426,
+      "length": 11,
+      "context": {
+        "text": "...ing it difficult to be found. There are times where these larger groups are found   \tThe av...",
+        "offset": 43,
+        "length": 11
+      },
+      "rule": {
+        "id": "WHEN_WHERE",
+        "subId": "1",
+        "description": "where/when",
+        "issueType": "style",
+        "category": {
+          "id": "STYLE",
+          "name": "Style",
+          "groupName": "Style"
+        },
+        "urls": [
+          {
+            "value": "http://www.dictionary.com/browse/where"
+          }
+        ]
+      },
+      "replacements": [
+        {
+          "value": "times when"
+        }
+      ],
+      "duplicateOfIssueId": null,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 9,
+      "message": "Use past participle here: \"run\".",
+      "shortMessage": "Possible agreement error",
+      "offset": 1586,
+      "length": 3,
+      "context": {
+        "text": "...Children at this age are girls who have ran away from home because they were sexual...",
+        "offset": 43,
+        "length": 3
+      },
+      "rule": {
+        "id": "HAVE_PART_AGREEMENT",
+        "subId": "1",
+        "description": "Agreement: 'have' + past/present tense",
+        "issueType": "grammar",
+        "category": {
+          "id": "GRAMMAR",
+          "name": "Grammar",
+          "groupName": "Grammar"
+        },
+        "urls": null
+      },
+      "replacements": [
+        {
+          "value": "run"
+        }
+      ],
+      "duplicateOfIssueId": null,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 10,
+      "message": "Statistics suggests that 'their' (as in 'It’s not their fault.') might be the correct word here, not 'there' (as in 'Is there an answer?'). Please check.",
+      "shortMessage": "",
+      "offset": 1642,
+      "length": 5,
+      "context": {
+        "text": "...me because they were sexually abused in there life. Six hundred thousand to eight hun...",
+        "offset": 43,
+        "length": 5
+      },
+      "rule": {
+        "id": "CONFUSION_RULE",
+        "subId": null,
+        "description": "Statistically detect wrong use of words that are easily confused",
+        "issueType": "non-conformance",
+        "category": {
+          "id": "TYPOS",
+          "name": "Possible Typo",
+          "groupName": "Spelling"
+        },
+        "urls": null
+      },
+      "replacements": [
+        {
+          "value": "their"
+        }
+      ],
+      "duplicateOfIssueId": 0,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 11,
+      "message": "Possible spelling mistake found",
+      "shortMessage": "Spelling mistake",
+      "offset": 1899,
+      "length": 7,
+      "context": {
+        "text": "...e estimated up to 500 teens as young as twevele to be working everyday as slaves (Thoma...",
+        "offset": 43,
+        "length": 7
+      },
+      "rule": {
+        "id": "MORFOLOGIK_RULE_EN_US",
+        "subId": null,
+        "description": "Possible spelling mistake",
+        "issueType": "misspelling",
+        "category": {
+          "id": "TYPOS",
+          "name": "Possible Typo",
+          "groupName": "Spelling"
+        },
+        "urls": null
+      },
+      "replacements": [],
+      "duplicateOfIssueId": 0,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 12,
+      "message": "'Everyday' is an adjective. Did you mean \"every day\"?",
+      "shortMessage": "Commonly confused word",
+      "offset": 1921,
+      "length": 8,
+      "context": {
+        "text": "...teens as young as twevele to be working everyday as slaves (Thomas 2012). Three hundred ...",
+        "offset": 43,
+        "length": 8
+      },
+      "rule": {
+        "id": "EVERYDAY_EVERY_DAY",
+        "subId": "3",
+        "description": "everyday (every day)",
+        "issueType": "misspelling",
+        "category": {
+          "id": "CONFUSED_WORDS",
+          "name": "Commonly Confused Words",
+          "groupName": "Spelling"
+        },
+        "urls": null
+      },
+      "replacements": [
+        {
+          "value": "every day"
+        }
+      ],
+      "duplicateOfIssueId": 0,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 13,
+      "message": "Possible spelling mistake found",
+      "shortMessage": "Spelling mistake",
+      "offset": 1981,
+      "length": 9,
+      "context": {
+        "text": "...Thomas 2012). Three hundred thousand of americans under the age of 18 are in child traffi...",
+        "offset": 43,
+        "length": 9
+      },
+      "rule": {
+        "id": "MORFOLOGIK_RULE_EN_US",
+        "subId": null,
+        "description": "Possible spelling mistake",
+        "issueType": "misspelling",
+        "category": {
+          "id": "TYPOS",
+          "name": "Possible Typo",
+          "groupName": "Spelling"
+        },
+        "urls": null
+      },
+      "replacements": [
+        {
+          "value": "Americans"
+        }
+      ],
+      "duplicateOfIssueId": 0,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 14,
+      "message": "This sentence appears to be written in the passive voice. Consider writing in the active voice.",
+      "shortMessage": "",
+      "offset": 2280,
+      "length": 16,
+      "context": {
+        "text": "...s later these children are found, which have been abused and tortured and put to work of which m...",
+        "offset": 43,
+        "length": 16
+      },
+      "rule": {
+        "id": "PASSIVE_VOICE",
+        "subId": "8",
+        "description": "Passive voice",
+        "issueType": "uncategorized",
+        "category": {
+          "id": "MISC",
+          "name": "Miscellaneous",
+          "groupName": "Grammar"
+        },
+        "urls": null
+      },
+      "replacements": [],
+      "duplicateOfIssueId": null,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 15,
+      "message": "Possible agreement error. The noun may seems to be uncountable; consider using: \"much may\", \"a good deal of may\".",
+      "shortMessage": "Grammatical problem",
+      "offset": 2335,
+      "length": 8,
+      "context": {
+        "text": "...d and tortured and put to work of which many may not have wanted to do so. One story tha...",
+        "offset": 43,
+        "length": 8
+      },
+      "rule": {
+        "id": "MANY_NN_U",
+        "subId": "1",
+        "description": "Possible agreement error: 'many/several/few' + uncountable noun",
+        "issueType": "grammar",
+        "category": {
+          "id": "GRAMMAR",
+          "name": "Grammar",
+          "groupName": "Grammar"
+        },
+        "urls": null
+      },
+      "replacements": [
+        {
+          "value": "much may"
+        },
+        {
+          "value": "a good deal of may"
+        }
+      ],
+      "duplicateOfIssueId": null,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 16,
+      "message": "Possible typo: you repeated a word",
+      "shortMessage": "Word repetition",
+      "offset": 2833,
+      "length": 9,
+      "context": {
+        "text": "...I was crying. I had to close my eyes so that that I would not see what they were doing to...",
+        "offset": 43,
+        "length": 9
+      },
+      "rule": {
+        "id": "ENGLISH_WORD_REPEAT_RULE",
+        "subId": null,
+        "description": "Word repetition (e.g. 'will will')",
+        "issueType": "duplication",
+        "category": {
+          "id": "MISC",
+          "name": "Miscellaneous",
+          "groupName": "Grammar"
+        },
+        "urls": null
+      },
+      "replacements": [
+        {
+          "value": "that"
+        }
+      ],
+      "duplicateOfIssueId": null,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 17,
+      "message": "Possible spelling mistake found",
+      "shortMessage": "Spelling mistake",
+      "offset": 3376,
+      "length": 10,
+      "context": {
+        "text": "...pregnant (United National Party MP Rosy Senanayake). Child sex trafficking in Thailand is ...",
+        "offset": 43,
+        "length": 10
+      },
+      "rule": {
+        "id": "MORFOLOGIK_RULE_EN_US",
+        "subId": null,
+        "description": "Possible spelling mistake",
+        "issueType": "misspelling",
+        "category": {
+          "id": "TYPOS",
+          "name": "Possible Typo",
+          "groupName": "Spelling"
+        },
+        "urls": null
+      },
+      "replacements": [],
+      "duplicateOfIssueId": 0,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 18,
+      "message": "Change from passive to active voice? Example: \"Instruments are played by her.\" can be changed to \"She plays instruments.\"",
+      "shortMessage": "Passive voice",
+      "offset": 3414,
+      "length": 25,
+      "context": {
+        "text": "...y Senanayake). Child sex trafficking in Thailand is influenced by tourism, over thirty thousand children ...",
+        "offset": 43,
+        "length": 25
+      },
+      "rule": {
+        "id": "PASSIVE_VOICE",
+        "subId": "7",
+        "description": "Passive voice",
+        "issueType": "uncategorized",
+        "category": {
+          "id": "MISC",
+          "name": "Miscellaneous",
+          "groupName": "Grammar"
+        },
+        "urls": null
+      },
+      "replacements": [],
+      "duplicateOfIssueId": null,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 19,
+      "message": "Statistics suggests that 'their' (as in 'It’s not their fault.') might be the correct word here, not 'there' (as in 'Is there an answer?'). Please check.",
+      "shortMessage": "",
+      "offset": 3527,
+      "length": 5,
+      "context": {
+        "text": "... as sex slaves. Children in Brazil sell there bodies to escape poverty, children as y...",
+        "offset": 43,
+        "length": 5
+      },
+      "rule": {
+        "id": "CONFUSION_RULE",
+        "subId": null,
+        "description": "Statistically detect wrong use of words that are easily confused",
+        "issueType": "non-conformance",
+        "category": {
+          "id": "TYPOS",
+          "name": "Possible Typo",
+          "groupName": "Spelling"
+        },
+        "urls": null
+      },
+      "replacements": [
+        {
+          "value": "their"
+        }
+      ],
+      "duplicateOfIssueId": 10,
+      "issueADuplicate": true
+    },
+    {
+      "grammarIssueId": 20,
+      "message": "Possible spelling mistake found",
+      "shortMessage": "Spelling mistake",
+      "offset": 3740,
+      "length": 6,
+      "context": {
+        "text": "...ollars but in other countries such as a brazil. A lot can be bought with that little m...",
+        "offset": 43,
+        "length": 6
+      },
+      "rule": {
+        "id": "MORFOLOGIK_RULE_EN_US",
+        "subId": null,
+        "description": "Possible spelling mistake",
+        "issueType": "misspelling",
+        "category": {
+          "id": "TYPOS",
+          "name": "Possible Typo",
+          "groupName": "Spelling"
+        },
+        "urls": null
+      },
+      "replacements": [
+        {
+          "value": "Brazil"
+        }
+      ],
+      "duplicateOfIssueId": 0,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 21,
+      "message": "Try removing the phrase \"type of\".",
+      "shortMessage": "",
+      "offset": 3940,
+      "length": 7,
+      "context": {
+        "text": "...he Super Bowl weekend (CCRC 2014). This type of crime happens all over the world. Not j...",
+        "offset": 43,
+        "length": 7
+      },
+      "rule": {
+        "id": "TYPE_OF",
+        "subId": "1",
+        "description": "that exists (omit)",
+        "issueType": "style",
+        "category": {
+          "id": "PLAIN_ENGLISH",
+          "name": "Plain English",
+          "groupName": "Style"
+        },
+        "urls": [
+          {
+            "value": "http://grammar.ccc.commnet.edu/grammar/concise.htm"
+          }
+        ]
+      },
+      "replacements": [],
+      "duplicateOfIssueId": null,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 22,
+      "message": "This word is normally spelled with hyphen.",
+      "shortMessage": "Hyphenation problem",
+      "offset": 4075,
+      "length": 10,
+      "context": {
+        "text": "...cond largest criminal industry reaching thirty two billion annually.   \t \tChild traffickin...",
+        "offset": 43,
+        "length": 10
+      },
+      "rule": {
+        "id": "EN_COMPOUNDS",
+        "subId": null,
+        "description": "Hyphenated words, e.g., 'case-sensitive' instead of 'case sensitive'",
+        "issueType": "misspelling",
+        "category": {
+          "id": "MISC",
+          "name": "Miscellaneous",
+          "groupName": "Grammar"
+        },
+        "urls": null
+      },
+      "replacements": [
+        {
+          "value": "thirty-two"
+        }
+      ],
+      "duplicateOfIssueId": null,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 23,
+      "message": "Did you forget a comma after a conjunctive/linking adverb?",
+      "shortMessage": "Punctuation error",
+      "offset": 4379,
+      "length": 4,
+      "context": {
+        "text": "...h makes it difficult to end this issue. Also there is well over eight hundred thousa...",
+        "offset": 43,
+        "length": 4
+      },
+      "rule": {
+        "id": "SENT_START_CONJUNCTIVE_LINKING_ADVERB_COMMA",
+        "subId": "1",
+        "description": "Commas after conjunctive/linking adverbs in front of a new sentence.",
+        "issueType": "typographical",
+        "category": {
+          "id": "PUNCTUATION",
+          "name": "Punctuation Errors",
+          "groupName": "Grammar"
+        },
+        "urls": [
+          {
+            "value": "https://writing.wisc.edu/Handbook/ConjAdv.html"
+          }
+        ]
+      },
+      "replacements": [
+        {
+          "value": "Also,"
+        }
+      ],
+      "duplicateOfIssueId": null,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 24,
+      "message": "Did you mean \"ongoing\"?",
+      "shortMessage": "",
+      "offset": 4536,
+      "length": 8,
+      "context": {
+        "text": "...der to end this issue. This has been an on going issue since later 1800s and it has not ...",
+        "offset": 43,
+        "length": 8
+      },
+      "rule": {
+        "id": "ON_GOING",
+        "subId": "1",
+        "description": "on going (ongoing)",
+        "issueType": "misspelling",
+        "category": {
+          "id": "TYPOS",
+          "name": "Possible Typo",
+          "groupName": "Spelling"
+        },
+        "urls": null
+      },
+      "replacements": [
+        {
+          "value": "ongoing"
+        }
+      ],
+      "duplicateOfIssueId": 0,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 25,
+      "message": "Don't put a space before the full stop",
+      "shortMessage": "",
+      "offset": 4800,
+      "length": 2,
+      "context": {
+        "text": "...  Anderson, B., and J.O. Davidson (2003) .Is trafficking in human beings demand dr...",
+        "offset": 43,
+        "length": 2
+      },
+      "rule": {
+        "id": "COMMA_PARENTHESIS_WHITESPACE",
+        "subId": null,
+        "description": "Use of whitespace before comma and before/after parentheses",
+        "issueType": "whitespace",
+        "category": {
+          "id": "TYPOGRAPHY",
+          "name": "Typography",
+          "groupName": "Style"
+        },
+        "urls": null
+      },
+      "replacements": [
+        {
+          "value": "."
+        }
+      ],
+      "duplicateOfIssueId": null,
+      "issueADuplicate": false
+    },
+    {
+      "grammarIssueId": 26,
+      "message": "Possible spelling mistake found",
+      "shortMessage": "Spelling mistake",
+      "offset": 5167,
+      "length": 3,
+      "context": {
+        "text": "...u/artsci/wms/hughes/demand_for_victim s.pdf. Accessed 14/07/2007.  Jones, B. (2014,...",
+        "offset": 43,
+        "length": 3
+      },
+      "rule": {
+        "id": "MORFOLOGIK_RULE_EN_US",
+        "subId": null,
+        "description": "Possible spelling mistake",
+        "issueType": "misspelling",
+        "category": {
+          "id": "TYPOS",
+          "name": "Possible Typo",
+          "groupName": "Spelling"
+        },
+        "urls": null
+      },
+      "replacements": [
+        {
+          "value": "PDF"
+        },
+        {
+          "value": "PD"
+        },
+        {
+          "value": "PDT"
+        },
+        {
+          "value": "PDQ"
+        },
+        {
+          "value": "Pd"
+        },
+        {
+          "value": "pd"
+        }
+      ],
+      "duplicateOfIssueId": 0,
+      "issueADuplicate": false
+    }
+  ],
+  "plagiarism": [
+    {
+      "overlapId": 0,
+      "parentOverlapId": 0,
+      "offset": 1,
+      "length": 5482,
+      "source": "lopescgc.prod/gcu/submissions/b14b706e-9889-4894-ae9e-714a7d24f3b9/extracted_content",
+      "sourceId": "1291064037",
+      "groupName": "Internal",
+      "sourceOrigin": "gcu",
+      "documentSubmitDate": "24-Aug-2017",
+      "fullName": null,
+      "className": null,
+      "isSelfPlagiarised": false
+    },
+    {
+      "overlapId": 0,
+      "parentOverlapId": 0,
+      "offset": 2370,
+      "length": 108,
+      "source": "http://cnnphilippines.com/world/2015/11/11/Human-trafficking-survivor-I-was-raped-43200-times.html",
+      "sourceId": "239408604",
+      "groupName": "Web",
+      "sourceOrigin": "cnnphilippines.com",
+      "documentSubmitDate": null,
+      "fullName": null,
+      "className": null,
+      "isSelfPlagiarised": false
+    },
+    {
+      "overlapId": 0,
+      "parentOverlapId": 0,
+      "offset": 2481,
+      "length": 153,
+      "source": "https://www.vanguardngr.com/2015/11/i-was-raped-43200-times-human-trafficking-survivor/",
+      "sourceId": "1621225635",
+      "groupName": "Web",
+      "sourceOrigin": "www.vanguardngr.com",
+      "documentSubmitDate": null,
+      "fullName": null,
+      "className": null,
+      "isSelfPlagiarised": false
+    },
+    {
+      "overlapId": 0,
+      "parentOverlapId": 0,
+      "offset": 2551,
+      "length": 83,
+      "source": "http://www.cnn.com/2015/11/10/americas/freedom-project-mexico-trafficking-survivor/index.html",
+      "sourceId": "1468083416",
+      "groupName": "Web",
+      "sourceOrigin": "www.cnn.com",
+      "documentSubmitDate": null,
+      "fullName": null,
+      "className": null,
+      "isSelfPlagiarised": false
+    },
+    {
+      "overlapId": 0,
+      "parentOverlapId": 0,
+      "offset": 3249,
+      "length": 139,
+      "source": "http://www.ibtimes.co.uk/top-five-countries-highest-rates-child-prostitution-1435448",
+      "sourceId": "228164155",
+      "groupName": "Web",
+      "sourceOrigin": "www.ibtimes.co.uk",
+      "documentSubmitDate": null,
+      "fullName": null,
+      "className": null,
+      "isSelfPlagiarised": false
+    },
+    {
+      "overlapId": 0,
+      "parentOverlapId": 0,
+      "offset": 3792,
+      "length": 142,
+      "source": "http://www.ibtimes.co.uk/top-five-countries-highest-rates-child-prostitution-1435448",
+      "sourceId": "228164155",
+      "groupName": "Web",
+      "sourceOrigin": "www.ibtimes.co.uk",
+      "documentSubmitDate": null,
+      "fullName": null,
+      "className": null,
+      "isSelfPlagiarised": false
+    },
+    {
+      "overlapId": 0,
+      "parentOverlapId": 0,
+      "offset": 4762,
+      "length": 165,
+      "source": "https://discover.ukdataservice.ac.uk/catalogue/?sn=6109",
+      "sourceId": "54628695",
+      "groupName": "Web",
+      "sourceOrigin": "discover.ukdataservice.ac.uk",
+      "documentSubmitDate": null,
+      "fullName": null,
+      "className": null,
+      "isSelfPlagiarised": false
+    },
+    {
+      "overlapId": 0,
+      "parentOverlapId": 0,
+      "offset": 5037,
+      "length": 155,
+      "source": "https://www.thefreelibrary.com/Trafficking+women+and+children+for+sexual+exploitation%3A+India+policy...-a0414006449",
+      "sourceId": "1995387249",
+      "groupName": "Web",
+      "sourceOrigin": "www.thefreelibrary.com",
+      "documentSubmitDate": null,
+      "fullName": null,
+      "className": null,
+      "isSelfPlagiarised": false
+    },
+    {
+      "overlapId": 0,
+      "parentOverlapId": 0,
+      "offset": 5281,
+      "length": 88,
+      "source": "https://www.thefreelibrary.com/Trafficking+women+and+children+for+sexual+exploitation%3A+India+policy...-a0414006449",
+      "sourceId": "1995387249",
+      "groupName": "Web",
+      "sourceOrigin": "www.thefreelibrary.com",
+      "documentSubmitDate": null,
+      "fullName": null,
+      "className": null,
+      "isSelfPlagiarised": false
+    }
+  ],
+  "comments": [],
+  "grammarCheckEnabled": true,
+  "plagiarismCheckEnabled": true,
+  "similarityScore": 100,
+  "externalSimilarityScore": 19,
+  "internalSimilarityScore": 100
+}
