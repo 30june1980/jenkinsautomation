@@ -29,7 +29,7 @@
         </classes>
     </test>-->
 
-    <test name="FourOverHome Page Menu Navigation Test">
+   <!-- <test name="FourOverHome Page Menu Navigation Test">
         <classes>
             <class name="com.clairvoyant.tests.FourOverHomePageTest">
                 <methods>
@@ -39,6 +39,15 @@
             </class>
         </classes>
     </test>
+-->
+<test name="Pipeline2">
+    <classes>
+        <class name="com.clairvoyant.tests.Pipeline2Test">
+
+        </class>
+    </classes>
+</test>
+
 
 
 </suite>

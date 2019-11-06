@@ -5,7 +5,7 @@
     <parameter name="Platform" value="local-windows"></parameter>
     <parameter name="datafilename" value="testData.xlsx"></parameter>
     <parameter name="browser" value="chrome"></parameter>
-    <test name="ProductHomePage Test">
+   <!-- <test name="ProductHomePage Test">
         <classes>
             <class name="com.clairvoyant.tests.ProductHomePageTest">
                 <methods>
@@ -15,6 +15,13 @@
             </class>
         </classes>
 
+    </test>-->
+
+    <test name="Pipeline1">
+        <classes>
+            <class name="com.clairvoyant.tests.Pipeline1Test"/>
+
+        </classes>
     </test>
 
 </suite>

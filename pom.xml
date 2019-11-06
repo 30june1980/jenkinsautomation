@@ -135,8 +135,9 @@
                         <suiteXmlFiles>${suiteName}.xml</suiteXmlFiles>
                         <properties>
                             <property>
-                                <name>listener</name>
+                              <!--  <name>listener</name>
                                 <value>com.clairvoyant.Listeners.ListenerTest,com.vimalselvam.testng.listener.ExtentTestNgFormatter</value>
+-->
                             </property>
                         </properties>
                     </configuration>
